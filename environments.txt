@@ -1,0 +1,2 @@
+C:\Users\dson\miniforge3
+C:\Users\dson\miniforge3\envs\numpystack-gpu
